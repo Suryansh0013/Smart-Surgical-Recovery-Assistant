@@ -138,7 +138,7 @@ SSRA/
 ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/Tanishakumar26/SSRA.git
+git clone https://github.com/Suryansh0013/Smart-Surgical-Recovery-Assistant
 cd SSRA
 
 Install dependencies:
@@ -184,8 +184,8 @@ SSRA aims to improve surgical outcomes through:
 * Clinical decision support augmentation
 
 👩‍💻 Author
-Tanisha Kumar
-B.Tech CSE (AI & ML)
+Suryansh Ahlawat
+B.Tech CSE (Data Science)
 
 Interested in:
 Healthcare AI • Machine Learning • Clinical Decision Support • Applied AI Research
